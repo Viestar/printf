@@ -1,2 +1,10 @@
 # printf
-Team work project 
+
+
+
+
+## Team work project
+
+## NUTSHELL
+> Writing printf as a team of two.
+ 
