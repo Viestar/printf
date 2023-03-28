@@ -1,15 +1,6 @@
  0x11. C - PRINTF
 =================
 
- Teamwork project
-------------------
-
-### Collaborators
-
-* FESTO MUWANGUZI
-
-* SYLIVESTER MBERENGE
-
 ## Printf
 
 * printf is a function in the C programming language that is used to print formatted output to the console or terminal. It stands for `print formatted`.
@@ -73,5 +64,4 @@ printf("I have %d apples\n", apples);
 * By following these tips, you can use printf to its best ways to create clear, readable, and well-formatted output that communicates your program's results effectively.
 
 > Compiled by
->
->> Festo and Viester.
+
